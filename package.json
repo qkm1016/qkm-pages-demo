@@ -1,0 +1,15 @@
+{
+  "name": "qkm-pages-demo",
+  "version": "0.1.0",
+  "main": "index.js",
+  "author": "qkm",
+  "license": "MIT",
+  "scripts": {
+    "clean": "qkm-pages clean",
+    "build": "qkm-pages build",
+    "develop": "qkm-pages develop"
+  },
+  "devDependencies": {
+    "qkm-pages": "^0.2.0"
+  }
+}
